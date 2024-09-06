@@ -50,5 +50,6 @@
             </div>
         </div>
     </div>
+    <p class="text-center">Kredo2024</p>
 </body>
 </html>
